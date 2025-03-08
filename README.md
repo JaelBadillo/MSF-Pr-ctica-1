@@ -1,7 +1,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=JaelBadillo/MSF-Pr-ctica-1)
 # Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Badillo22210409]
 
-#Autor
+# Autor
 Jael Badillo Cruz
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l22210409@tectijuana.edu.mx
