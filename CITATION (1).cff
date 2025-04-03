@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Diseño de controlador PID[MATLAB;  Spyder; Multisim]'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jael
+    family-names: Badillo
+    email: L22210409@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+  - given-names: Ashley
+    family-names: Panzzi
+    email: L22210424@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+repository-code: 'https://github.com/JaelBadillo/MSF-Practica-2'
+keywords:
+  - Sistema respiratorio
+  - Controlador
+  - PID
+  - Caso
+  - Control
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-03-28'
